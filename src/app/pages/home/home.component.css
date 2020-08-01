@@ -1,0 +1,15 @@
+
+.home__characters{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 10%;
+}
+
+.example-card {
+    max-width: 200px;
+  }
+  
+  .example-header-image {
+    background-size: cover;
+  }

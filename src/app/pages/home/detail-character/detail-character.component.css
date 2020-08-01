@@ -1,0 +1,12 @@
+.detail__modal {
+    z-index: 10;
+    margin: auto;
+    width: 861px;
+    background: white;
+    height: 429px;
+    position: absolute;
+    top: 129px;
+    left: 98px;
+    border-radius: 22px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
